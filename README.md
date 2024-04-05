@@ -6,6 +6,7 @@ For this workshop, I have set up several examples to work with, canvassing diffe
 
 ## Requirements
 Google Drive
+
 Google Colaboratory
 
 Minimal understanding of programming required.
@@ -24,6 +25,7 @@ After you get comfortable, try out the translate-and-code...ipynb script.
 
 ### Data Protection
 If you change the code and use some of your own data, note that Google Colab is connected to Google servers and that if you use the OpenAI API, you will be sending your data to them.
+
 The HuggingFace models work differently - you load the model into your RAM and pass it requests.
 
 ## Support
