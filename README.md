@@ -5,14 +5,15 @@ We will be exploring how to use AI in our data analysis pipeline.
 For this workshop, I have set up several examples to work with, canvassing different possibilities. You are welcome to change the code to suit your purposes. 
 
 ## Requirements
+
+Minimal understanding of programming required. This repository is intended to be an accessible starting point to non-experts.
+
 Google Drive
 
 Google Colaboratory
 
-Minimal understanding of programming required.
-
 ### Optional
-OpenAI platform account; should come with $5 sign on bonus. 
+If you wish to run the entire script for the second file, you need an OpenAI platform account; should come with $5 sign on bonus. It will not run if you don't have any money on the platform. 
 
 ## Usage
 Download the ZIP file of this repository (top right, green button that says Code), and drop the files into your Google Drive, in a place where you can easily find it.
