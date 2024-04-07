@@ -10,7 +10,7 @@ Minimal understanding of programming required. This repository is intended to be
 
 Google Drive
 
-Google Colaboratory
+Google Colaboratory -- To check whether you have this, see if you can choose it as an option for creating a new document in the online Google Drive interface (New > More), otherwise click "Connect More Apps".
 
 ### Optional
 If you wish to run the entire script for the second file, you need an OpenAI platform account; should come with $5 sign on bonus. It will not run if you don't have any money on the platform. 
